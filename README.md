@@ -1,6 +1,6 @@
-# Car Sales Advertisements Analysis #
+# Car Sales Analysis #
 
-This GitHub project provides an interactive web application for analyzing car sales advertisements. 
+This project provides an interactive web application for analyzing car sales from advertisements. 
 The application uses Pandas, Streamlit and Plotly Express to visualize the datasets, including vehicle prices, model years, conditions, manufacturers, fuel types, odometer readings, transmission types, and more.
 
 A version of the application can be found at [https://car-sales-advertisement-application.onrender.com/]
